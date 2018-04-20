@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import { compose } from 'recompose';
+// import { compose } from 'recompose';
 
 import { searchActions } from '../../modules/search';
 import { sortActions } from '../../modules/sort';
